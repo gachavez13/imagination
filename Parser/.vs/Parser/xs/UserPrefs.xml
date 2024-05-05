@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Parser/LexicalCategory.cs">
+    <Files>
+      <File FileName="Parser/Category.cs" />
+      <File FileName="Parser/LexicalCategory.cs" Line="18" Column="23" />
+      <File FileName="Parser/Sequence.cs" />
+      <File FileName="Parser/PhrasalCategory.cs" />
+      <File FileName="ParserTests/ParsingTests.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Parser" expanded="True">
+            <Node name="Parser" expanded="True">
+              <Node name="LexicalCategory.cs" selected="True" />
+            </Node>
+            <Node name="ParserTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
